@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T20:16:12.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.0.2" etag="noapC_rQVpmQpXEbehMd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T20:27:34.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="H4fo9JJy_eMK3G9BOmgb" version="24.0.2" type="github">
   <diagram name="Page-1" id="38E5Qh-p2DSpx81lBjCu">
-    <mxGraphModel>
+    <mxGraphModel dx="1612" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-1" target="DhVNgI3o_zORPUREl8Ff-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-1" value="&lt;div&gt;MAIN SETUP&lt;/div&gt;&lt;div&gt;backend -&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;terminal -&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;events -&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tui&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-2" target="DhVNgI3o_zORPUREl8Ff-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-2" value="&lt;div&gt;ENGINE SETUP&lt;/div&gt;&lt;div&gt;AppEngine::new&lt;/div&gt;&lt;div&gt;(terminal_dims)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-4" target="DhVNgI3o_zORPUREl8Ff-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-15" value="Break(msg)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhVNgI3o_zORPUREl8Ff-14">
+          <mxGeometry x="-0.0184" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-17" value="Continue(())" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhVNgI3o_zORPUREl8Ff-16">
+          <mxGeometry x="-0.1579" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-4" value="&lt;div&gt;GAME LOOP START&lt;/div&gt;&lt;div&gt;engine.run_state?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="260" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-8" value="PROGRAM EXIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-18" target="DhVNgI3o_zORPUREl8Ff-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-18" value="tui.draw(engine)?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-19" target="DhVNgI3o_zORPUREl8Ff-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.00000000000023" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-25" value="&lt;div&gt;TuiEvent::Mouse&lt;/div&gt;&lt;div&gt;TuiEvent::Resize&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DhVNgI3o_zORPUREl8Ff-24">
+          <mxGeometry x="0.4172" y="-3" relative="1" as="geometry">
+            <mxPoint x="33" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-19" target="DhVNgI3o_zORPUREl8Ff-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-19" target="DhVNgI3o_zORPUREl8Ff-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-19" value="&lt;div&gt;MATCH&lt;/div&gt;&lt;div&gt;tui.events.next()?&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-21" value="&lt;div&gt;handle_key_event&lt;/div&gt;&lt;div&gt;(key_event, engine)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-23" value="engine.tick()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhVNgI3o_zORPUREl8Ff-28" target="DhVNgI3o_zORPUREl8Ff-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DhVNgI3o_zORPUREl8Ff-28" value="Continue(())" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
