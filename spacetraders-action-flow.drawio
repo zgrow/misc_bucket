@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T16:46:55.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="yf2by88UMW4cAze2DoOR" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T19:06:21.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="YIhwlGJceLf9ONQX2950" version="24.5.4" type="github">
   <diagram name="Page-1" id="_OZHdQPs6SoX2NPfq_Cj">
-    <mxGraphModel dx="1320" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="491" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
             <mxRectangle x="450" y="380" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OyuBoa7CFAcm1fHNNKRn-7" value="Jumping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OyuBoa7CFAcm1fHNNKRn-32">
+        <mxCell id="OyuBoa7CFAcm1fHNNKRn-7" value="Jumping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="OyuBoa7CFAcm1fHNNKRn-32">
           <mxGeometry x="100" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OyuBoa7CFAcm1fHNNKRn-6" value="Flying" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="OyuBoa7CFAcm1fHNNKRn-32">
