@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7">
   <diagram name="Page-1" id="vh3K-pNnKYZtZrQj3HE7">
-    <mxGraphModel dx="1101" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1519" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -650,56 +650,212 @@
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-111" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Def. Necropolis&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;Death" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="740" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-112" target="gJBzYA_e1ptuSS2OvFSx-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="1400" />
+              <mxPoint x="1050" y="1400" />
+              <mxPoint x="1050" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-112" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Clock Tower&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;4x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 10%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-113" target="gJBzYA_e1ptuSS2OvFSx-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="1370" />
+              <mxPoint x="1150" y="1400" />
+              <mxPoint x="1070" y="1400" />
+              <mxPoint x="1070" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF8000);" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-113" target="gJBzYA_e1ptuSS2OvFSx-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="1400" />
+              <mxPoint x="1250" y="1400" />
+              <mxPoint x="1250" y="1430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-113" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Forgotten Sepulcher&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;3x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 110%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1310" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-114" target="gJBzYA_e1ptuSS2OvFSx-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="1370" />
+              <mxPoint x="1350" y="1400" />
+              <mxPoint x="1270" y="1400" />
+              <mxPoint x="1270" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-114" target="gJBzYA_e1ptuSS2OvFSx-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="1400" />
+              <mxPoint x="1450" y="1400" />
+              <mxPoint x="1450" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-114" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Cavern&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;4x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 10%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-115" target="gJBzYA_e1ptuSS2OvFSx-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="1400" />
+              <mxPoint x="1470" y="1400" />
+              <mxPoint x="1470" y="1430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-115" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Undying Shores&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;4x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 10%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1310" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-116" target="gJBzYA_e1ptuSS2OvFSx-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1500" />
+              <mxPoint x="960" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-116" target="gJBzYA_e1ptuSS2OvFSx-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1500" />
+              <mxPoint x="1160" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-116" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Clock Room&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Time Keeper&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1500" width="120" height="40" as="geometry" />
+          <mxGeometry x="1000" y="1430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-117" target="gJBzYA_e1ptuSS2OvFSx-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="1500" />
+              <mxPoint x="1360" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-117" target="gJBzYA_e1ptuSS2OvFSx-120">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-117" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Guardian&#39;s Haven&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;the Giant&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1500" width="120" height="40" as="geometry" />
+          <mxGeometry x="1200" y="1430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-118" target="gJBzYA_e1ptuSS2OvFSx-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="1500" />
+              <mxPoint x="1360" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-118" target="gJBzYA_e1ptuSS2OvFSx-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="1500" />
+              <mxPoint x="1560" y="1500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-118" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Mausoleum&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Scarecrow&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="1500" width="120" height="40" as="geometry" />
+          <mxGeometry x="1400" y="1430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-119" target="gJBzYA_e1ptuSS2OvFSx-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="1680" />
+              <mxPoint x="1050" y="1680" />
+              <mxPoint x="1050" y="1710" />
+              <mxPoint x="1060" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-119" target="gJBzYA_e1ptuSS2OvFSx-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="1590" />
+              <mxPoint x="970" y="1650" />
+              <mxPoint x="1350" y="1650" />
+              <mxPoint x="1350" y="1710" />
+              <mxPoint x="1360" y="1710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-119" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Derelict Distillery&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 5%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1600" width="160" height="60" as="geometry" />
+          <mxGeometry x="880" y="1530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-120" target="gJBzYA_e1ptuSS2OvFSx-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="1680" />
+              <mxPoint x="1070" y="1680" />
+              <mxPoint x="1070" y="1710" />
+              <mxPoint x="1060" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-120" target="gJBzYA_e1ptuSS2OvFSx-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="1590" />
+              <mxPoint x="1170" y="1620" />
+              <mxPoint x="1550" y="1620" />
+              <mxPoint x="1550" y="1710" />
+              <mxPoint x="1560" y="1710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-120" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;High Peak Castle&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 5%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1600" width="160" height="60" as="geometry" />
+          <mxGeometry x="1080" y="1530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-121" target="gJBzYA_e1ptuSS2OvFSx-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-121" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Infested Shipwreck&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 5%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1600" width="160" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-122" target="gJBzYA_e1ptuSS2OvFSx-125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-122" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Dracula&#39;s Castle&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2x 3-Stat&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 10%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1600" width="160" height="60" as="geometry" />
+          <mxGeometry x="1480" y="1530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-123" target="gJBzYA_e1ptuSS2OvFSx-126">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-123" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Lighthouse&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;the Servants&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1700" width="120" height="40" as="geometry" />
+          <mxGeometry x="1300" y="1710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-124" target="gJBzYA_e1ptuSS2OvFSx-127">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-124" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Throne Room&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;the Hand of&amp;nbsp;&lt;/div&gt;&lt;div&gt;the King&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1700" width="120" height="40" as="geometry" />
+          <mxGeometry x="1000" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-125" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Master&#39;s Keep&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dracula&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="1700" width="120" height="40" as="geometry" />
+          <mxGeometry x="1500" y="1710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-126" value="&lt;b&gt;&lt;u&gt;the Crown&lt;/u&gt;&lt;/b&gt;&lt;div&gt;the Queen&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1780" width="120" height="40" as="geometry" />
+          <mxGeometry x="1300" y="1780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gJBzYA_e1ptuSS2OvFSx-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-127" target="gJBzYA_e1ptuSS2OvFSx-128">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-127" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;???&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2x 2-Stat&lt;/div&gt;&lt;div&gt;Cursed Chest: 0%&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1800" width="160" height="60" as="geometry" />
+          <mxGeometry x="980" y="1780" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-128" value="&lt;div&gt;???:&lt;/div&gt;&lt;div&gt;?&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1920" width="120" height="40" as="geometry" />
+          <mxGeometry x="1000" y="1870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gJBzYA_e1ptuSS2OvFSx-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFF33);" edge="1" parent="1" source="gJBzYA_e1ptuSS2OvFSx-90" target="gJBzYA_e1ptuSS2OvFSx-93">
           <mxGeometry relative="1" as="geometry">
