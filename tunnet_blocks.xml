@@ -1,0 +1,36 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;div&amp;gt;0&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;^&amp;amp;nbsp; v&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;^&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;&amp;lt;/span&amp;gt;v&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;^&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;    &amp;lt;/span&amp;gt;v&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;^&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;&amp;lt;/span&amp;gt;v&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;1 &amp;amp;lt;&amp;amp;lt;&amp;amp;lt;&amp;amp;lt;&amp;amp;lt;&amp;amp;lt;&amp;amp;lt;&amp;amp;lt; 2&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;fontSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Hub-CW"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;div&amp;gt;0&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;v&amp;amp;nbsp; ^&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;v&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;&amp;lt;/span&amp;gt;^&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;v&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;    &amp;lt;/span&amp;gt;^&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;v&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;white-space: pre;&amp;quot;&amp;gt;&amp;#9;&amp;lt;/span&amp;gt;^&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;1 &amp;amp;gt;&amp;amp;gt;&amp;amp;gt;&amp;amp;gt;&amp;amp;gt;&amp;amp;gt;&amp;amp;gt;&amp;amp;gt; 2&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;fontSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Hub-CCW"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;div&amp;gt;0&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;?&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;1&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" style=\"rhombus;whiteSpace=wrap;html=1;fontSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Filter"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"endpoint\" style=\"whiteSpace=wrap;html=1;aspect=fixed;fontSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Endpoint"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"mainframe\" style=\"shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=5;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
