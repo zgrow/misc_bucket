@@ -1,9 +1,112 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="28.1.2">
   <diagram name="Page-1" id="XMKwCKhgJwtbh59IcqML">
-    <mxGraphModel>
+    <mxGraphModel dx="397" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-1" target="U06wF5GeSPTf6mX-vyE_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-1" value="PHASE 1: Surprise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-3" target="U06wF5GeSPTf6mX-vyE_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-3" value="&lt;div&gt;Find qty of&amp;nbsp;&lt;/div&gt;&lt;div&gt;Surprise segments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-8" value="r = 1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-4" target="U06wF5GeSPTf6mX-vyE_-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-9" value="r = 3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-4" target="U06wF5GeSPTf6mX-vyE_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-4" value="&lt;div&gt;each PARTY&lt;/div&gt;&lt;div&gt;rolls 1d6&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="460" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-10" target="U06wF5GeSPTf6mX-vyE_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-10" value="&lt;div&gt;PARTY is surprised&lt;/div&gt;&lt;div&gt;for r segments&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="475" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-11" target="U06wF5GeSPTf6mX-vyE_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-11" value="&lt;div&gt;PARTY is&lt;/div&gt;&lt;div&gt;not surprised&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-22" value="BOTH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-12" target="U06wF5GeSPTf6mX-vyE_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-25" value="ONE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-12" target="U06wF5GeSPTf6mX-vyE_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-12" target="U06wF5GeSPTf6mX-vyE_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-32" value="NONE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-12" target="U06wF5GeSPTf6mX-vyE_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-12" value="&lt;div&gt;Are BOTH, ONE, or NONE&amp;nbsp;&lt;/div&gt;&lt;div&gt;of the parties surprised?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="680" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-23" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-20" target="U06wF5GeSPTf6mX-vyE_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-20" value="&lt;div&gt;Is one party surprised&amp;nbsp;&lt;/div&gt;&lt;div&gt;for longer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-21" target="U06wF5GeSPTf6mX-vyE_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-21" value="&lt;div&gt;More-surprised party&lt;/div&gt;&lt;div&gt;loses the net diff in&lt;/div&gt;&lt;div&gt;surprise segments&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-24" target="U06wF5GeSPTf6mX-vyE_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-24" value="&lt;div&gt;Surprised party is inactive for the&lt;/div&gt;&lt;div&gt;surprise segments&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-31" target="U06wF5GeSPTf6mX-vyE_-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-31" value="&lt;div&gt;PHASE 2:&lt;/div&gt;&lt;div&gt;Closing to Melee&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-35" target="U06wF5GeSPTf6mX-vyE_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-35" value="&lt;div&gt;Party with adv.&lt;/div&gt;&lt;div&gt;takes actions&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="990" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-39" target="U06wF5GeSPTf6mX-vyE_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-39" value="&lt;div&gt;PLAYERS declare&lt;/div&gt;&lt;div&gt;intentions: &quot;cast a spell&quot;, &quot;attack in melee&quot;, &quot;try to flank&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-41" target="U06wF5GeSPTf6mX-vyE_-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-41" value="&lt;div&gt;&quot;Pre-initiative actions&quot;&lt;/div&gt;&lt;div&gt;are resolved: readied arrows, &amp;amp;c&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U06wF5GeSPTf6mX-vyE_-43" target="U06wF5GeSPTf6mX-vyE_-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-43" value="&lt;div&gt;Each PARTY rolls&lt;/div&gt;&lt;div&gt;initiative: 1d6&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1520" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U06wF5GeSPTf6mX-vyE_-48" value="&lt;div&gt;The FOE&#39;s roll sets&lt;/div&gt;&lt;div&gt;YOUR start segment&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
